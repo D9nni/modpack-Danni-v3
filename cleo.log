@@ -1,0 +1,91 @@
+25/04/2018 20:35:47.173 Log started.
+25/04/2018 20:35:47.173 Unprotecting memory region '.text': 0x00001000 (size: 0x00456000)
+25/04/2018 20:35:47.173 Unprotecting memory region '.rdata': 0x00458000 (size: 0x0004C000)
+25/04/2018 20:35:47.173 Unprotecting memory region '.text': 0x008B1000 (size: 0x0064A000)
+25/04/2018 20:35:47.189 Unloading plugins...
+25/04/2018 20:35:47.189 Loading plugin cleo/FileSystemOperations.cleo
+25/04/2018 20:35:47.220 Loading plugin cleo/IniFiles.cleo
+25/04/2018 20:35:47.220 Loading plugin cleo/IntOperations.cleo
+25/04/2018 20:35:47.236 Started on game of version: SA 1.0 us
+25/04/2018 20:35:47.236 Injecting MenuStatusNotifier...
+25/04/2018 20:35:47.236 Replacing call: 0x0057B9FD
+25/04/2018 20:35:47.236 Injecting DmaFix...
+25/04/2018 20:35:47.236 Replacing call: 0x0053E981
+25/04/2018 20:35:47.236 Injecting TextManager...
+25/04/2018 20:35:47.236 Injecting function at: 0x006A0050
+25/04/2018 20:35:47.236 Injecting SoundSystem...
+25/04/2018 20:35:47.236 Replacing call: 0x007487A8
+25/04/2018 20:35:47.236 Injecting CustomOpcodeSystem...
+25/04/2018 20:35:47.236 Injecting ScriptEngine...
+25/04/2018 20:35:47.236 Replacing call: 0x0046A21B
+25/04/2018 20:35:47.236 Replacing call: 0x0058D552
+25/04/2018 20:35:47.236 Replacing call: 0x0058FCE4
+25/04/2018 20:35:47.236 Replacing call: 0x0053BDD7
+25/04/2018 20:35:47.236 Replacing call: 0x005BA340
+25/04/2018 20:35:47.236 Replacing call: 0x005D4FD7
+25/04/2018 20:35:47.236 Replacing call: 0x005D18F0
+25/04/2018 20:35:47.236 Replacing call: 0x005D14D5
+25/04/2018 20:35:47.236 Injecting function at: 0x004667DB
+25/04/2018 20:35:50.012 Creating main window...
+25/04/2018 20:35:50.028 Found sound device 0: No sound
+25/04/2018 20:35:50.028 Found sound device 1 (default): Speakers (IDT High Definition Audio CODEC)
+25/04/2018 20:35:50.028 On system found 2 devices, 2 enabled devices, assuming device to use: 1 (Speakers (IDT High Definition Audio CODEC))
+25/04/2018 20:35:50.059 SoundSystem initialized
+25/04/2018 20:35:50.059 Floating-point audio supported!
+25/04/2018 20:35:50.059 Audio hardware acceleration disabled (no EAX)
+25/04/2018 20:36:07.973 Scripts exclusively initialized
+25/04/2018 20:36:07.980 Deleting dynamic fxts...
+25/04/2018 20:36:07.980 Cleaning up script data... 0 files, 0 libs, 0 file scans, 0 allocations...
+25/04/2018 20:36:07.981 Searching for cleo scripts
+25/04/2018 20:36:07.981 Loading custom script ccontrol.cs...
+25/04/2018 20:36:07.990 Registering custom script named ccontro
+25/04/2018 20:36:07.991 Loading custom script changer.cs...
+25/04/2018 20:36:08.009 Registering custom script named changer
+25/04/2018 20:36:08.009 Loading custom script conectare.cs...
+25/04/2018 20:36:08.010 Registering custom script named conecta
+25/04/2018 20:36:08.010 Loading custom script cp.cs...
+25/04/2018 20:36:08.022 Registering custom script named cp.cs
+25/04/2018 20:36:08.022 Loading custom script DigiInfo.cs...
+25/04/2018 20:36:08.035 Registering custom script named DigiInf
+25/04/2018 20:36:08.035 Loading custom script HUDFix.cs...
+25/04/2018 20:36:08.056 Registering custom script named HUDFix.
+25/04/2018 20:36:08.057 Loading custom script memory512.cs...
+25/04/2018 20:36:08.068 Registering custom script named memory5
+25/04/2018 20:36:08.068 Loading custom script NameCFlow.cs...
+25/04/2018 20:36:08.077 Registering custom script named NameCFl
+25/04/2018 20:36:08.077 Loading custom script No_more_haze.cs...
+25/04/2018 20:36:08.078 Registering custom script named No_more
+25/04/2018 20:36:08.078 Loading custom script Radio Online by Helios.cs...
+25/04/2018 20:36:08.079 Registering custom script named Radio O
+25/04/2018 20:36:08.079 Loading custom script SKINCHANGER.cs...
+25/04/2018 20:36:08.080 Registering custom script named SKINCHA
+25/04/2018 20:36:08.080 Loading custom script smartphone.cs...
+25/04/2018 20:36:08.081 Registering custom script named smartph
+25/04/2018 20:36:08.081 Loading custom script StreamIniExtender.cs...
+25/04/2018 20:36:08.082 Registering custom script named StreamI
+25/04/2018 20:36:08.082 Loading custom script test.cs...
+25/04/2018 20:36:08.098 Registering custom script named test.cs
+25/04/2018 20:36:09.302 Unregistering custom script named No_more
+25/04/2018 20:36:09.302 Unregistering custom script named memory5
+25/04/2018 20:36:09.302 Unregistering custom script named HUDFix.
+25/04/2018 20:36:10.652 Unregistering custom script named StreamI
+25/04/2018 21:04:22.128 Closing SoundSystem...
+25/04/2018 21:04:22.128 Freeing BASS library
+25/04/2018 21:04:22.128 SoundSystem closed!
+25/04/2018 21:04:22.128 Deleting fxts...
+25/04/2018 21:04:22.128 Unloading scripts...
+25/04/2018 21:04:22.128 Unregistering custom script named ccontro
+25/04/2018 21:04:22.128 Unregistering custom script named timechanèÖ" Ö
+25/04/2018 21:04:22.129 Unregistering custom script named dust
+25/04/2018 21:04:22.129 Unregistering custom script named distancep¹Öü¹Ö
+25/04/2018 21:04:22.129 Unregistering custom script named DigiInf
+25/04/2018 21:04:22.129 Unregistering custom script named NameCFl
+25/04/2018 21:04:22.129 Unregistering custom script named Radio O
+25/04/2018 21:04:22.129 Unregistering custom script named changeskp®Ø5¯Ø
+25/04/2018 21:04:22.129 Unregistering custom script named smartph
+25/04/2018 21:04:22.129 Unregistering custom script named hnre
+25/04/2018 21:04:22.129 Deleting inactive script named No_more
+25/04/2018 21:04:22.129 Deleting inactive script named memory5
+25/04/2018 21:04:22.129 Deleting inactive script named HUDFix.
+25/04/2018 21:04:22.129 Deleting inactive script named StreamI
+25/04/2018 21:04:22.129 Log finished.

@@ -22,6 +22,9 @@ https://forum.bugged.ro/topic/294852-modpack-by-danni-for-low-medium-pc-v3/
 
 La anumite ore seara in interioare e intuneric, se repara cu un /setw 5 de obicei.
 
+Antivirusul v-ar putea detecta SAMPFUNCS ca virus. Modurile pot functiona si fara sampfuncs daca stergeti changer.cs din folderul cleo.
+Totusi, va recomand sa il pastrati pentru ca s-ar putea sa aveti nevoie de acel mod de schimbat vremea.
+
 Daca ati identificat un bug, puteti deschide un issue.
 
 #### Recomandari

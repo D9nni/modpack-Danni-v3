@@ -14,7 +14,8 @@
 
 ###### modloader
 
-Se pot vedea in ierarhia de fisiere, numele sunt foarte sugestive. 
+Se pot vedea in ierarhia de fisiere, numele sunt foarte sugestive.
+
     1. modul "fara tufe" elimina tufisurile daca ii setati prioritate mai mare de 50 si dati relog
     2. modul "fara nori" elimina doar norii care incurca atunci cand zburati
 
@@ -29,7 +30,7 @@ Se pot vedea in ierarhia de fisiere, numele sunt foarte sugestive.
 ###### alte moduri
     1. mod de faruri (VEHTXD2.txd si gta_sa.exe)
 
-###### Descrierea veche (2018)
+###### *Descrierea veche (2018)
 https://forum.bugged.ro/topic/294852-modpack-by-danni-for-low-medium-pc-v3/
 
 *au fost scoase modurile .sf care erau interzise pe anumite servere si alte moduri problematice
@@ -41,7 +42,7 @@ https://forum.bugged.ro/topic/294852-modpack-by-danni-for-low-medium-pc-v3/
     2. Instaleaza SAMP peste noul GTA.
 
     3. Descarca modurile de pe github. 
-    (pe coloana din dreapta la sectiunea Releases, alegeti de jos download la arhiva)
+    (pe coloana din dreapta la sectiunea Releases, dati click pe Lates si apasati download la arhiva .zip de jos)
 
     3. Trage modurile din arhiva in folderul cu jocul.
 

@@ -30,8 +30,7 @@ Se pot vedea in ierarhia de fisiere, numele sunt foarte sugestive.
 ###### alte moduri
     1. mod de faruri (VEHTXD2.txd si gta_sa.exe)
 
-###### *Descrierea veche (2018)
-https://forum.bugged.ro/topic/294852-modpack-by-danni-for-low-medium-pc-v3/
+[*Descrierea veche (2018)](https://forum.bugged.ro/topic/294852-modpack-by-danni-for-low-medium-pc-v3/)
 
 *au fost scoase modurile .sf care erau interzise pe anumite servere si alte moduri problematice
 
@@ -54,11 +53,21 @@ La anumite ore seara in interioare e intuneric, se repara cu un /setw 5 de obice
 Antivirusul v-ar putea detecta SAMPFUNCS ca virus. Modurile pot functiona si fara sampfuncs daca stergeti changer.cs din folderul cleo.
 Totusi, va recomand sa il pastrati pentru ca s-ar putea sa aveti nevoie de acel mod de schimbat vremea.
 
+Daca instalati firstPerson modul de Screenshot.asi nu va mai functiona bine (va face ss si samp-ul si modul)
+
 Daca ati identificat un bug, puteti deschide un issue.
 
 #### Recomandari
     
 1. Folositi si samp addon peste moduri, pentru a face asta instalati intai sampaddon si apoi samp 0.3.7 peste
 dupa ce ati instalat modurile.
+
+#### Alte moduri recomandate:
+
+1. [TheBestSpeedometer](https://forum.bugged.ro/topic/309747-thebestspeedometer-by-gumball3000-cel-mai-bun-vitezometru/)
+
+2. [Mod de tir](https://forum.bugged.ro/topic/310128-mod-de-tir/) 
+
+
 
 

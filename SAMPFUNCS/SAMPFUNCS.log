@@ -1,0 +1,40 @@
+[13:12:47] SAMPFUNCS v5.3.1 release #17 (SA-MP 0.3.7) loaded. Base address: 0x67600000.
+[13:12:47] Compiled: Feb 12 2016 13:35:05
+[13:12:47] Initializing opcodes...
+[13:12:47] Opcodes initialized successfully. Total opcodes count: 382.
+[13:12:49] samp.dll base addres: 0x04A90000
+[13:12:49] Installing hooks: 
+[13:12:49] Hook command process input installed.
+[13:12:49] Hook on dialog response installed.
+[13:12:49] Hook init netgame installed.
+[13:12:49] Hook QuitGameHook installed.
+[13:12:49] All hooks installed.
+[13:13:01] Direct3DDevice9 hook installed.
+[13:13:01] Hook RakPeer::HandleRPCPacket installed.
+[13:13:01] Initializing SAMP data...
+[13:13:01] Info initialized.
+[13:13:01] Pools initialized.
+[13:13:01] Player pool initialized.
+[13:13:01] Vehicle pool initialized.
+[13:13:01] Chat initialized.
+[13:13:01] Input initialized.
+[13:13:01] Death list initialized.
+[13:13:01] Dialog initialized.
+[13:13:01] Misc data initialized.
+[13:13:01] Scoreboard initialized.
+[13:13:01] RakNet initialized.
+[13:13:01] ==========================================
+[13:13:01]  SAMPFUNCS v5.3.1 release #17 (SA-MP 0.3.7)
+  Compiled: Feb 12 2016 12:55:37
+
+  Author: FYP
+  Active developers: FYP, EXPORT
+
+  Past developers and special thanks:
+   MogAika, urShadow, legend2360,
+   Dark_Knight, SR_Team
+
+ Website: http://blast.hk
+ BlastHack © 2013 - 2016
+[13:13:01] ==========================================
+[13:13:01] SAMPFUNCS v5.3.1 release #17 (SA-MP 0.3.7) completely loaded!

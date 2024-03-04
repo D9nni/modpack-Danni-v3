@@ -42,9 +42,10 @@ https://forum.bugged.ro/topic/294852-modpack-by-danni-for-low-medium-pc-v3/
     2. Instaleaza SAMP peste noul GTA.
 
     3. Descarca modurile de pe github. 
-    (pe coloana din dreapta la sectiunea Releases, dati click pe Lates si apasati download la arhiva .zip de jos)
+    3.1. Mergi pe coloana din dreapta paginii la sectiunea Releases si apasa pe Latest.
+    3.2. Din josul paginii descarca arhiva .zip cu modurile.
 
-    3. Trage modurile din arhiva in folderul cu jocul.
+    4. Trage modurile din arhiva in folderul cu jocul.
 
 #### Probleme
 

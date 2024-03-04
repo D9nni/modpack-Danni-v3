@@ -2,11 +2,37 @@
 
 <div align="center"><img src="https://i.imgur.com/RudMARB.png"></div>
 
-#### Descrierea modurilor - forum 2018 
+#### Ce moduri contine modpackul?
 
+###### cleo
+    1. hudfix.cs - scoate zerourile in plus de la bani
+    2. ccontrol.cs - cruise control
+    3. changer.cs - schimba vremea /sett /setw - necesita SAMPFUNCS
+    4. cp.cs - arata distanta in timp real pana la checkpoint sub radar
+    5. fara efect de caldura.cs (a.k.a noMoreHaze.cs)
+    6. memory512.cs - incarca texturile la distanta mai mare
+
+###### modloader
+
+Se pot vedea in ierarhia de fisiere, numele sunt foarte sugestive. 
+    1. modul "fara tufe" elimina tufisurile daca ii setati prioritate mai mare de 50 si dati relog
+    2. modul "fara nori" elimina doar norii care incurca atunci cand zburati
+
+###### asi
+    1. OutfitFix.asi - crash fix pt interactiunea cu textdrawuri
+    2. SAMP.asi - anticrasher
+    3. SAMPFUNCS.asi
+    4. Screenshot.asi - face screenshoturi mai rapid si nu mai apare in chat textul
+    5. colormod.asi - culori mai frumoase
+    6. map.asi - harta pe M
+
+###### alte moduri
+    1. mod de faruri (VEHTXD2.txd si gta_sa.exe)
+
+###### Descrierea veche (2018)
 https://forum.bugged.ro/topic/294852-modpack-by-danni-for-low-medium-pc-v3/
 
-*au fost scoase modurile .sf care erau interzise pe anumite servere si alte moduri inutile
+*au fost scoase modurile .sf care erau interzise pe anumite servere si alte moduri problematice
 
 #### Instalare
     
@@ -14,7 +40,8 @@ https://forum.bugged.ro/topic/294852-modpack-by-danni-for-low-medium-pc-v3/
 
     2. Instaleaza SAMP peste noul GTA.
 
-    3. Descarca modurile de pe github. (pe coloana din dreapta la sectiunea Releases, alegeti de jos download la arhiva)
+    3. Descarca modurile de pe github. 
+    (pe coloana din dreapta la sectiunea Releases, alegeti de jos download la arhiva)
 
     3. Trage modurile din arhiva in folderul cu jocul.
 
